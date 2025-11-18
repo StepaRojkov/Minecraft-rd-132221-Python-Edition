@@ -4,6 +4,7 @@ A full open-source port of Minecraft RubyDung (RD 132221) written in Python usin
 This project is an accurate yet extensible reconstruction of one of the earliest Minecraft versions (RubyDung, build RD 132221), rewritten entirely in Python with PyOpenGL, Pygame, and custom rendering modules.
 
 The goal of the project is to provide the community with an open, understandable, and fully moddable foundation for experimentation, education, and building new ideas based on the earliest Minecraft prototype.
+<img width="1023" height="766" alt="Снимок экрана 2025-11-19 000820" src="https://github.com/user-attachments/assets/4e0c244a-7b98-48e8-bdd2-0ab98b43db89" />
 
 ✨ Features
 
